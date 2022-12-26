@@ -241,11 +241,9 @@ class ViewController: UIViewController {
         numberOfPetsLabel.textColor = UIColor.white
         morePetsLabel.textColor = UIColor.white
         majorLabel.textColor = UIColor.white
-        majorTextField.textColor = UIColor.white
         gpaLabel.textColor = UIColor.white
         gpaNumberLabel.textColor = UIColor.white
         hobbyLabel.textColor = UIColor.white
-        hobbyTextField.textColor = UIColor.white
     }
     
     func textWhiteMode() {
@@ -256,11 +254,9 @@ class ViewController: UIViewController {
         numberOfPetsLabel.textColor = UIColor.black
         morePetsLabel.textColor = UIColor.black
         majorLabel.textColor = UIColor.black
-        majorTextField.textColor = UIColor.black
         gpaLabel.textColor = UIColor.black
         gpaNumberLabel.textColor = UIColor.black
         hobbyLabel.textColor = UIColor.black
-        hobbyTextField.textColor = UIColor.black
     }
 }
 

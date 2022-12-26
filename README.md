@@ -5,7 +5,11 @@
 ### An app for students to introduce themselves with others
 
 ### App Walk-though
-<img src="https://i.imgur.com/RtczRfN.gif" width=900><br>
+* Required Features
+<img src="https://i.imgur.com/RtczRfN.gif" width=800><br>
+
+* Optional Features
+<img src="https://i.imgur.com/RHzmXTs.gif" width=800><br>
 
 ### Required Features
 
